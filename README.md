@@ -24,7 +24,7 @@ You need to have **.NET SDK** installed.
 ```sh
 # Clone the repository
 git clone https://github.com/your-repository/Memory-Manipulator.git
-cd Memory-Manipulator
+cd Memory_Manipulator
 
 # Build the application
 dotnet build
