@@ -1,7 +1,7 @@
 # Memory Manipulator
 
-## Description  
-Memory Manipulator is a C# console application that allows manipulation of other processes' memory in a Windows environment. It uses the Windows API (WinAPI) to search memory addresses, filter values, and modify data in the target process's memory.
+## Description
+Memory Manipulator is a C# console application designed for manipulating the memory of other processes in a Windows environment. It utilizes the Windows API (WinAPI) to search for memory addresses, filter values, and modify data within the target process's memory. The primary purpose of this tool is to manipulate in-game memory values for various modifications.
 
 ## Features  
 - **View all open windows and their processes**  
